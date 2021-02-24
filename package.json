@@ -1,0 +1,18 @@
+{
+  "name": "http-request",
+  "version": "1.0.0",
+  "description": "POST and GET request CLI with axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Lejon",
+  "bin": {
+    "http": "index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "yargs": "^16.2.0"
+  }
+}
