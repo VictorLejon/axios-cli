@@ -2,7 +2,7 @@
 Axios-cli with NodeJS
 
 ## Setup
-To run this project, install it locally using npm:
+Install program locally with npm and run help command for usage information.
 
 ```
 $ npm install . -g
